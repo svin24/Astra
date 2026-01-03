@@ -2,7 +2,7 @@
   description = "Astra";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/f8a04e05dcaac5be36f2cb6c70a55d4538146741";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     kdsingleapplication = {
       url = "github:KDAB/kdsingleapplication/3186a158f8e6565e89f5983b4028c892737844ff";
